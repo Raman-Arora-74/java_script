@@ -1,3 +1,6 @@
+// Variable and Context 
+
+
 /* If we write const in front of a variable name then the 
 variable has that fixed we can say that the variable is 
 reserve for that value */
